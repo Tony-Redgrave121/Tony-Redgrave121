@@ -44,7 +44,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tony-Redgrave121&theme=github_dark"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tony-Redgrave121&theme=github_dark"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tony-Redgrave121&theme=github_dark"/>
-    <hr>
   </div>
   </body>
 </html>
